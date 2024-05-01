@@ -209,7 +209,7 @@ main {
 
 .main_small_button_list {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .main_small_a_item {
