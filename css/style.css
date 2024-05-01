@@ -62,7 +62,7 @@ body {
 
 .flex_column_center {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
@@ -70,7 +70,7 @@ body {
 
 .flex_row_center {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
@@ -78,7 +78,7 @@ body {
 
 .flex_no_wrap_row_center {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
