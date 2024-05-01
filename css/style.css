@@ -56,13 +56,13 @@ body {
   background: var(--background_color) var(--background_image) no-repeat center;
   min-height: 100vh;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
 }
 
 .flex_column_center {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
