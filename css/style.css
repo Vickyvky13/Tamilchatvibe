@@ -185,8 +185,8 @@ main {
 
 .main_text_item {
   display: flex;
-  align-items: column;
-  justify-content: column;
+  align-items: center;
+  justify-content: center;
   color: var(--button_text_color);
   background-color: var(--button_background_color);
   width: 41em;
