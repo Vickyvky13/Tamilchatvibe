@@ -60,9 +60,9 @@ body {
   flex-wrap: wrap;
 }
 
-.flex_column_center {
+.flex_row_center {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
