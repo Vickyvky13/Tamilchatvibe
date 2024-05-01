@@ -209,7 +209,8 @@ main {
 
 .main_small_button_list {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: center; /* Centers the buttons horizontally */
 }
 
 .main_small_a_item {
